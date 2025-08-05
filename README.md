@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm Brent Warf
 
-<!--
-**WarfDesigns/WarfDesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a website designer based in Hardyville, Kentucky USA. I specialize in creating friendly, family-focused websites with automated features to help others save time.
 
-Here are some ideas to get you started:
+- 🔧 I build custom WordPress plugins
+- 💼 Owner of Warf Designs LLC
+- 💡 Passionate about helping small businesses grow
+- ✝️ Faith and family come first
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's connect!
+- Portfolio: https://www.warfdesigns.com/pages/portfolio/index.html
+- Email: brent@warfdesigns.com
+- Phone: 740-438-7646
