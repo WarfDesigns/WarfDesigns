@@ -18,3 +18,7 @@ I work with the following:
 - Portfolio: https://www.warfdesigns.com/pages/portfolio/index.html
 - Email: brent@warfdesigns.com
 - Phone: 740-438-7646
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=warfdesigns&theme=dark" alt="WarfDesigns's GitHub stats" style="max-width: 100%;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warfdesigns&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" style="max-width: 100%;" />
